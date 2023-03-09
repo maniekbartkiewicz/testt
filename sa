@@ -1,0 +1,4 @@
+git lfs install
+
+# I am adding the deep learning model file
+git lfs track "*.h5"
